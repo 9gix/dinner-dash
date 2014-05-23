@@ -1,4 +1,4 @@
-Core Contributor
+Core Contributors
 ================
 
 Eugene
